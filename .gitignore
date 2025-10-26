@@ -126,7 +126,6 @@ examples/intellij-plugin-demo/plugin/.idea/
 sdk/runanywhere-kotlin/.idea/
 
 # Other IDE files
-.vscode/
 *.swp
 *.swo
 *~
@@ -244,3 +243,6 @@ sdk/runanywhere-kotlin/modules/runanywhere-llm-llamacpp/src/jvmMain/resources/na
 
 # Backup directories
 examples/android/RunAnywhereAI/app/src/main/cpp/llama.cpp.backup/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
